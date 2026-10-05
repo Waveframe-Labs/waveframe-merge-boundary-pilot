@@ -1,0 +1,1 @@
+Synthetic public documentation fixture.
